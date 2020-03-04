@@ -6,7 +6,7 @@ contextlib2==0.5.5
 coverage==4.5.2
 Django==2.2.3
 django-bleach==0.3.0
-django-el-pagination==3.2.4
+django-el-pagination==3.3.0
 django-js-asset==1.1.0
 django-mptt==0.9.1
 django-pipeline==1.6.14
