@@ -25,5 +25,5 @@ pytz==2018.7
 raven==6.9.0
 requests==2.22.0
 six==1.11.0
-urllib3==1.25.3
+urllib3==1.26.6
 webencodings==0.5.1
