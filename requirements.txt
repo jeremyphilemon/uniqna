@@ -4,7 +4,7 @@ certifi==2019.6.16
 chardet==3.0.4
 contextlib2==0.5.5
 coverage==4.5.2
-Django==2.2.3
+Django==3.2.5
 django-bleach==0.3.0
 django-el-pagination==3.2.4
 django-js-asset==1.1.0
